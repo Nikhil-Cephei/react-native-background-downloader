@@ -37,7 +37,7 @@
     "ios/",
     "android/build.gradle",
     "android/src/",
-    "plugin/"
+    "plugin/build/"
   ],
   "scripts": {
     "bump": "npm version patch",
